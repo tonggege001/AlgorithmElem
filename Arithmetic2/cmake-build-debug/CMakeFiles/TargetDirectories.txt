@@ -1,0 +1,3 @@
+D:/ARCHIEVE/C_WORKPLACE/Arithmetic2/cmake-build-debug/CMakeFiles/Arithmetic2.dir
+D:/ARCHIEVE/C_WORKPLACE/Arithmetic2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ARCHIEVE/C_WORKPLACE/Arithmetic2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

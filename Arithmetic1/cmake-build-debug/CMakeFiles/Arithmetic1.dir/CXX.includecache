@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ARCHIEVE/C_WORKPLACE/Arithmetic1/BigInteger.cpp
+iostream
+-
+string
+-
+
+D:/ARCHIEVE/C_WORKPLACE/Arithmetic1/MinLen.cpp
+iostream
+-
+cmath
+-
+algorithm
+-
+
+D:/ARCHIEVE/C_WORKPLACE/Arithmetic1/main.cpp
+stdio.h
+-
+stdlib.h
+-
+
+D:/ARCHIEVE/C_WORKPLACE/Arithmetic1/test.cpp
+iostream
+-
+

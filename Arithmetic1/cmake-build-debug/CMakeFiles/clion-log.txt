@@ -1,0 +1,4 @@
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\ARCHIEVE\C_WORKPLACE\Arithmetic1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/ARCHIEVE/C_WORKPLACE/Arithmetic1/cmake-build-debug

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ARCHIEVE/C_WORKPLACE/Arithmetic2/BestBinaryTree.cpp
+iostream
+-
+cmath
+-
+queue
+-
+
+D:/ARCHIEVE/C_WORKPLACE/Arithmetic2/FloydWashall.cpp
+iostream
+-
+fstream
+-
+stack
+-
+
+D:/ARCHIEVE/C_WORKPLACE/Arithmetic2/main.cpp
+iostream
+-
+
